@@ -15,7 +15,7 @@ CategoryId INT FOREIGN KEY REFERENCES dbo.Category(CategoryId),
 ProductName VARCHAR(255) NOT NULL,
 ProductDescription VARCHAR(255),
 ProductStock INT NOT NULL DEFAULT 0,
-ProductPrice FLOAT NOT NULL DEFAULT 0.00
+ProductPrice DECIMAL(10,2) NOT NULL DEFAULT 0.00
 );
 
 SET IDENTITY_INSERT dbo.category ON;
