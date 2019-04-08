@@ -4,7 +4,7 @@
 * https://docs.microsoft.com/en-us/azure/sql-database/sql-database-technical-overview
 * https://azure.microsoft.com/en-us/services/sql-database/
 * https://docs.microsoft.com/en-us/azure/sql-database/
-* T-SQL: o	https://docs.microsoft.com/en-us/sql/t-sql/tutorial-writing-transact-sql-statements?view=sql-server-2017
+* T-SQL: https://docs.microsoft.com/en-us/sql/t-sql/tutorial-writing-transact-sql-statements?view=sql-server-2017
 
 ### Azure SQL database setup guide
 https://github.com/COM673/2019-Week3-SQLDB/blob/master/1.Azure-SQL-DB-Setup.pdf
