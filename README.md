@@ -8,3 +8,6 @@
 
 ### Azure SQL database setup guide
 https://github.com/COM673/2019-Week3-SQLDB/blob/master/1.Azure-SQL-DB-Setup.pdf
+
+### Working app based on 3.1-3.3
+https://github.com/COM673/spring-webapp-jdbc
