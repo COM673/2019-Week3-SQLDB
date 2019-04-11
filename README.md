@@ -10,4 +10,5 @@
 https://github.com/COM673/2019-Week3-SQLDB/blob/master/1.Azure-SQL-DB-Setup.pdf
 
 ### Working spring boot web app based on tutorial parts 3.1 - 3.4
-https://github.com/COM673/spring-webapp-jdbc
+* Github: https://github.com/COM673/spring-webapp-jdbc
+* Azure Web App: https://java-app2019.azurewebsites.net
